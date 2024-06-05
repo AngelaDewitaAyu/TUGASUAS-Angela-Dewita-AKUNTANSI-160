@@ -1,0 +1,42 @@
+1. Apakah ada korelasi antara produksi dan penjualan? (Dataset 1)
+Scatterplot Produksi vs Penjualan menunjukkan sedikit korelasi positif antara produksi dan penjualan.
+Koefisien Korelasi Pearson: 0.0914, yang menunjukkan bahwa korelasi antara produksi dan penjualan sangat lemah.
+2. Bagaimana distribusi nilai produksi dan penjualan? (Dataset 1)
+Histogram Distribusi Produksi menunjukkan produksi tersebar merata antara 50 dan 150.
+Histogram Distribusi Penjualan menunjukkan penjualan tersebar merata antara 30 dan 130.
+Statistik Deskriptif Produksi:
+Rata-rata: 100.54
+Median: 103
+Standar Deviasi: 29.43
+Statistik Deskriptif Penjualan:
+Rata-rata: 77.48
+Median: 73.5
+Standar Deviasi: 29.98
+3. Bagaimana hubungan antara penjualan dan persediaan? (Dataset 2)
+Scatterplot Penjualan vs Persediaan menunjukkan sedikit korelasi positif antara penjualan dan persediaan.
+Koefisien Korelasi Pearson: 0.0797, yang menunjukkan bahwa korelasi antara penjualan dan persediaan sangat lemah.
+4. Bagaimana distribusi nilai penjualan dan persediaan? (Dataset 2)
+Histogram Distribusi Penjualan menunjukkan penjualan tersebar merata antara 40 dan 140.
+Histogram Distribusi Persediaan menunjukkan persediaan tersebar merata antara 20 dan 110.
+Statistik Deskriptif Penjualan:
+Rata-rata: 88.66
+Median: 91
+Standar Deviasi: 31.00
+Statistik Deskriptif Persediaan:
+Rata-rata: 61.32
+Median: 57
+Standar Deviasi: 23.04
+5. Bagaimana hubungan antara produksi dan persediaan? (Dataset 3)
+Scatterplot Produksi vs Persediaan menunjukkan sedikit korelasi positif antara produksi dan persediaan.
+Koefisien Korelasi Pearson: 0.1728, yang menunjukkan bahwa korelasi antara produksi dan persediaan masih lemah, tapi lebih tinggi daripada korelasi di dataset lainnya.
+6. Bagaimana distribusi nilai produksi dan persediaan? (Dataset 3)
+Histogram Distribusi Produksi menunjukkan produksi tersebar merata antara 70 dan 170.
+Histogram Distribusi Persediaan menunjukkan persediaan tersebar merata antara 30 dan 120.
+Statistik Deskriptif Produksi:
+Rata-rata: 120.33
+Median: 126
+Standar Deviasi: 29.08
+Statistik Deskriptif Persediaan:
+Rata-rata: 73.06
+Median: 67
+Standar Deviasi: 26.89
